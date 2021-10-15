@@ -1,0 +1,4 @@
+lang:
+  "go"
+build:
+  "make build"

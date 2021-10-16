@@ -1,4 +1,8 @@
 lang:
   "go"
-build:
+buildCmd:
   "make build"
+builtWat:
+  ""
+builtWasm:
+  "main.wasm"

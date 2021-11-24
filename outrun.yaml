@@ -2,7 +2,7 @@ lang:
   "go"
 buildCmd:
   "make build"
-builtWat:
+watOutput:
   ""
-builtWasm:
+wasmOutput:
   "main.wasm"
